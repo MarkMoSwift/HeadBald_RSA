@@ -19,3 +19,8 @@ Graphical interface encryptor based on RSA asymmetric encryption algorithm. 基�
 ### 想要接收别人的文件的人
 9.点击解密文件，选中被加密的文件   
 10.解密成功以后，解密文件的文件在 [用户文件夹]/某某人 - 加密/   
+
+
+# 待加入功能  
+1.设置、修改访问私钥的密码；  
+2.校验公钥是否被篡改，防止中间人攻击；  
