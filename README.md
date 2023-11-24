@@ -26,3 +26,4 @@ Graphical interface encryptor based on RSA asymmetric encryption algorithm. 基�
 2.校验公钥是否被篡改，防止中间人攻击；  
 3.删除和修改他人公钥；  
 4.可滑动界面；  
+5.加入Github主页，甚至是超链接；  
