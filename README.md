@@ -2,6 +2,12 @@
 Graphical interface encryptor based on RSA asymmetric encryption algorithm. 基于RSA非对称加密算法的图形界面加密器。
 代码来源：https://maoao530.github.io/2016/11/20/python-rsa/
 
+## 项目简介
+文件加密方法：2048长的RSA  
+文件名加密方法：base64  
+语言：python  
+图形界面实现方法：tkinter  
+
 ## How to use 使用方法
 1.把exe放到一个单独的新建文件夹里面，该文件夹为**用户文件夹**  
 2.打开程序  
