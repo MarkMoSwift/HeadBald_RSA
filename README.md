@@ -3,8 +3,8 @@ Graphical interface encryptor based on RSA asymmetric encryption algorithm. 基�
 代码来源：https://maoao530.github.io/2016/11/20/python-rsa/
 
 ## 注意事项  
-实际上，我刚了解到，有一款软件GnuPG与我的项目高度相似，如果真的又需要，不妨使用这一款软件。  
-https://www.gnupg.org/download/index.html  
+实际上，我刚了解到，有一款软件GnuPG与我的项目高度相似，如果真的有需要，不妨使用这一款软件。  
+下载链接：https://www.gnupg.org/download/index.html  
 
 ## 项目简介
 文件加密方法：2048长的RSA  
